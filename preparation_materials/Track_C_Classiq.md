@@ -25,4 +25,4 @@ To successfully build and optimize the algorithm, you must be comfortable with C
 *   **[The Classiq Library](https://docs.classiq.io/latest/explore/):** A repository containing existing implementations of algorithms and tutorials. Reviewing these will give you a massive head start on how to structure complex quantum programs syntactically.
 
 ### 3. Community & Technical Support
-*   **[Classiq Community Slack:](https://short.classiq.io/join-slack)** Join the workspace! This is your direct lifeline for any highly specific technical questions regarding the SDK, circuit synthesis errors, or optimizat
+*   **[Classiq Community Slack:](https://short.classiq.io/join-slack)** Join the workspace! This is your direct lifeline for any highly specific technical questions regarding the SDK, circuit synthesis errors, or optimization.
